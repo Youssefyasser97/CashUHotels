@@ -1,15 +1,15 @@
-<h1>CashU task for creating OurHotels API using two different APIs.</h1>
+<h1>CashU task for creating OurHotels API using two different APIs</h1>
 <br>
 <p>This task is a test-task for CashU, implemented using Laravel</p>
 <br>
 <p>For running the program:<br>
- 1. Download zip folder and unzip in folder C:/Xampp/htdocs 
+ 1. Download zip folder and unzip in folder "C:/Xampp/htdocs" 
  2. Run Apache Server and MySQL from Xampp <br>
  3. Open any browser and type the url "http://localhost/cashu/public/" or "http://cashu.php" <br>
 </p>
 <br>
 <p>For OurHotels API: <br>
-URL: http://localhost/cashu/public/ or http://localhost/cashu/public/hotels
+http://localhost/cashu/public/ or http://localhost/cashu/public/hotels
 </p>
 <br>
 <p>For BestHotels API: <br>
@@ -19,10 +19,10 @@ http://localhost/cashu/public/besthotels
 <p>For TopHotel API: <br>
 http://localhost/cashu/public/tophotel
 </p>
-<br><br>
-<p>For filtering results, add '?' then the filter name and the value to filter on
 <br>
-Filters: city, adultsCount, from_date and to_date 
+<p>For filtering results, add '?' then the filter name and the value to filter on.
+<br>
+Filters: city, adultsCount, from_date and to_date.
 <br>
 e.g. "http://localhost/cashu/public/hotels?city=cairo&adultsCount=4&from_date=2020-08-15&to_date=2020-09-15"
 </p>
