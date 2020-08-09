@@ -1,0 +1,126 @@
+{
+    "hotels": [
+        {
+            "provider" : "BestHotels",
+            "hotelName" : "Coral Sea",
+            "fare" : 700,
+            "amenities" : ["AC", "Pool", "Parking"],
+            "city" : "sharm",
+            "hotelRate" : 8,
+            "discount" : 20,
+            "numberOfAdults" : 10,
+            "from_date" : "2020-08-18",
+            "to_date" : "2021-09-10"
+        },
+        {
+            "provider" : "TopHotel",
+            "hotelName" : "Tolip",
+            "fare" : 1100,
+            "amenities" : ["Sea View", "Free Breakfast"],
+            "city" : "cairo",
+            "hotelRate" : 9,
+            "discount" : 10,
+            "numberOfAdults" : 4,  
+            "from_date" : "2020-08-19",
+            "to_date" : "2021-03-20"
+        },
+        {
+            "provider" : "BestHotels",
+            "hotelName" : "Full moon",
+            "fare" : 659,
+            "amenities" : ["Garden", "Pool", "Barbeque"],
+            "city" : "dahab",
+            "hotelRate" : 7,
+            "discount" : 30,
+            "numberOfAdults" : 15,  
+            "from_date" : "2020-08-13",
+            "to_date" : "2020-09-10"
+         },
+        {
+            "provider" : "TopHotel",
+            "hotelName" : "Solaris",
+            "fare" : 910,
+            "amenities" : ["Private beach", "Garden View"],
+            "city" : "dahab",
+            "hotelRate" : 9,
+            "discount" : 10,
+            "numberOfAdults" : 4,  
+            "from_date" : "2020-08-10",
+            "to_date" : "2020-11-25"        
+        },
+        {
+            "provider" : "BestHotels",
+            "hotelName" : "Stella Di Mare",
+            "fare" : 1730,
+            "amenities" : ["Beach", "Pool"],
+            "city" : "sharm",
+            "hotelRate" : 8.7,
+            "discount" : 20,
+            "numberOfAdults" : 5,  
+            "from_date" : "2020-08-10",
+            "to_date" : "2021-03-14"        
+        },
+        {
+            "provider" : "TopHotel",
+            "hotelName" : "Four Seasons",
+            "fare" : 4300,
+            "amenities" : ["Lake View", "Mountain View"],
+            "city" : "sharm",
+            "hotelRate" : 9.3,
+            "discount" : 20,
+            "numberOfAdults" : 9,  
+            "from_date" : "2020-08-10",
+            "to_date" : "2021-02-26"       
+        },
+        {
+            "provider" : "BestHotels",
+            "hotelName" : "Caesar Bay",
+            "fare" : 8466,
+            "amenities" : ["Terrace", "Sea view"],
+            "city" : "matruh",
+            "hotelRate" : 8.9,
+            "discount" : 50,
+            "numberOfAdults" : 7,  
+            "from_date" : "2020-08-10",
+            "to_date" : "2020-08-13"        
+        },
+        {
+            "provider" : "TopHotel",
+            "hotelName" : "Porto Matrouh",
+            "fare" : 1278,
+            "amenities" : ["Garden view", "Terrace", "Sea view", "Pool view"],
+            "city" : "sharm",
+            "hotelRate" : 7.1,
+            "discount" : 40,
+            "numberOfAdults" : 4,  
+            "from_date" : "2020-09-10",
+            "to_date" : "2020-10-23"        
+        },
+        {
+            "provider" : "BestHotels",
+            "hotelName" : "Novotel",
+            "fare" : 1062,
+            "amenities" : ["Terrace", "Sea view", "Free WiFi", "Free private parking"],
+            "city" : "sahel",
+            "hotelRate" : 8.3,
+            "discount" : 32,
+            "numberOfAdults" : 12,  
+            "from_date" : "2020-08-18",
+            "to_date" : "2020-09-28"        
+        },
+        {
+            "provider" : "TopHotel",
+            "hotelName" : "Movenpick",
+            "fare" : 1057,
+            "amenities" : ["Buffet", "Tennis court", "fitness centre"],
+            "city" : "cairo",
+            "hotelRate" : 8.8,
+            "discount" : 29,
+            "numberOfAdults" : 20,  
+            "from_date" : "2020-08-10",
+            "to_date" : "2021-01-10"
+        }
+
+      
+    ]
+}
