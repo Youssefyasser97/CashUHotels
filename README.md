@@ -1,6 +1,6 @@
 <h1>CashU task for creating OurHotels API using two different APIs</h1>
 <br>
-<p>This project is a test-task for CashU, implemented using Laravel</p>
+<p>This project is a test-task for CashU, implemented using Laravel.</p>
 <br>
 <p>For running the program:<br>
  1. Download the zip folder and extract it as a folder in "C:/Xampp/htdocs"
